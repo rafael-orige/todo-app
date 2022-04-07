@@ -1,0 +1,7 @@
+export default {
+    name: "Todo",
+    version: "0.0.1",
+    extra: {
+        BASE_URL:
+    }
+}
